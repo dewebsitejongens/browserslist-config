@@ -1,0 +1,38 @@
+{
+  "name": "@dewebsitejongens/browserslist-config",
+  "version": "0.1.0",
+  "description": "De Website Jongens Browserslist config",
+  "authors": [
+    {
+      "name": "Nick Vlug",
+      "email": "nick@dewebsitejongens.nl"
+    }
+  ],
+  "license": "GPL-3.0",
+  "keywords": [
+    "websitejongens",
+    "dewebsitejongens",
+    "browserslist",
+    "browserslist-config"
+  ],
+  "homepage": "https://github.com/dewebsitejongens/browserslist-config/tree/main/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dewebsitejongens/browserslist-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dewebsitejongens/browserslist-config/issues"
+  },
+  "peerDependencies": {
+    "browserslist": ">=4.16.7"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ],
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  }
+}
